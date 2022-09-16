@@ -15,6 +15,7 @@ namespace PruebaGit
         static void Main()
         {
             Application.EnableVisualStyles();
+            //PRUEBA
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());
         }
